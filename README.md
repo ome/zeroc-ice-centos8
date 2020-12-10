@@ -1,6 +1,8 @@
 CentOS 8 Zeroc Ice Builder
 ==========================
 
+[![Actions Status](https://github.com/ome/zeroc-ice-centos8/workflows/Build/badge.svg)](https://github.com/ome/zeroc-ice-centos8/actions)
+
 Builds Zeroc Ice 3.6 for CentOS 8.
 Ice 3.6 is built from source and a wheel is also created.
 Includes libdb 5.3.
