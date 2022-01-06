@@ -10,9 +10,9 @@ RUN yum install -y -q \
     make \
     openssl-devel \
     patch \
-    python3 \
-    python3-devel \
-    python3-wheel \
+    python38 \
+    python38-devel \
+    python38-wheel \
     unzip
 
 # Use the Ice 3.7 repo for mcpp-devel only
